@@ -1,91 +1,55 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Braydon Kains
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+kainsbraydon@gmail.com  
+519 616 2976  
+https://www.github.com/BraydonKains  
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Education
+---------
+**B.Sc Computer Science, Wilfrid Laurier University** (2012-present)
 
+Experience
+---------
+**Software Developer** (Sept 2019 - present)
 
-## Currently
+- Delivered custom features for clients on the Brightspace platform
+- C# .Net (Core and Framework) back end, with some ASP.NET inspired front end
+- Browser native Web Components built with LitElement and Polymer
+- AWS Lambdas (Node.js), DynamoDB, Terraform, CloudFormation, and more
+- Member of Open Source Advisory group, helping the company with open source processes and direction
+- Conducting co-op and full-time interviews
 
-Standing on the shoulders of giants
+**Metroline Research Group** (Nov 2017 - Present, Freelance/Consulting)
 
-### Specialized in
+- As the sole software dev, designed and implemented multiple internal tools for employee management and for project specific needs
+- Wrote software in PHP, C#, Java, and Python
+- Managed small amounts of cloud infrastructure on a combination of DigitalOcean and Heroku
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Software Developer Co-op** (July - September, 2017 and 2018)
 
+- Wrote internal tooling for product intelligence reporting
+- Helped strategize and implement the team's translation management, helped transition to a full cloud workflow
+- Fixed bugs in desktop software, including some hardware debugging
+- C# .NET web Backend and desktop software
 
-### Research interests
+Skills
+------
+**Programming:** C#, Go, Typescript/Javascript, C/C++
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Other technologies:** Unix/Linux, AWS (and similar cloud infrastructure), serverless design, SQL and NoSQL databases
 
+Projects
+--------
+**[eznet-cli](https://github.com/BraydonKains/eznet-cli)** 
 
-## Education
+- Command line application to perform common netstat operations
+- Search ports for a specific process, check what proces is running on a port, kill whatever process is running on a port, etc
 
-`1654-1660`
-__The King's School, Grantham.__
+**[lucidity](https://github.com/BraydonKains/lucidity)** 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Early stages of a new programming language
+- Experimenting with merging the plain-english syntax style of Python/Ruby with the well known C-style syntax
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+See more on my GitHub!

@@ -2,6 +2,7 @@
 layout: cv
 title: Braydon Kains
 ---
+# Braydon Kains
 kainsbraydon@gmail.com  
 519 616 2976  
 https://www.github.com/BraydonKains  

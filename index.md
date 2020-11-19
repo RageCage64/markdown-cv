@@ -5,7 +5,9 @@ title: Braydon Kains
 # Braydon Kains
 kainsbraydon@gmail.com  
 519 616 2976  
-https://www.github.com/BraydonKains  
+<div id="webaddress">
+<a href="https://www.github.com/BraydonKains">@Braydon Kains on GitHub</a>
+</div>
 
 Education
 ---------

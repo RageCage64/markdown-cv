@@ -7,37 +7,38 @@ title: Braydon Kains
 kainsbraydon@gmail.com  
 519 616 2976  
 [@BraydonKains on GitHub](https://www.github.com/BraydonKains)
+Blog https://braydonkains.github.io
 
 Education
 ---------
-**B.Sc Computer Science, Wilfrid Laurier University** (2012-present)
+**B.Sc Computer Science, Wilfrid Laurier University** (2015-2019)
 
 Experience
 ---------
-`Sept 2019 - present`
+`March 2021 - Preset`
+**Software Developer (Cloud Backend)**
+- Developed microservices on top of AWS Managed Services (mainly Lambda, DynamoDB, IoT Core)
+- Used Terraform to deploy service infrastructure
+- Leveraged DataDog for observability and monitoring 
+- Wrote and maintained Jenkins pipelines for Continuous Delivery
+- Wrote documentation on service design, service code, and general guidance for teammates on new processes
+
+`Sept 2019 - March 2021`
 **D2L - Software Developer**
 
 - Delivered custom features for clients on the Brightspace platform
 - C# .Net (Core and Framework) back end, with some ASP.NET inspired front end
-- Browser native Web Components built with LitElement and Polymer
+- Browser native Web Components built with LitElement (now known as Lit) and Polymer
 - AWS Lambdas (Node.js), DynamoDB, Terraform, CloudFormation, and more
 - Member of Open Source Advisory group, helping the company with open source processes and direction
 - Conducting co-op and full-time interviews
 
-`Nov 2017 - Present, as needed`
+`Nov 2017 - Sept 2019`
 **Metroline Research Group - Software Developer, Consultant**
 
 - As the sole software dev, designed and implemented multiple internal tools for employee management and for project specific needs
-- Wrote software in PHP, C#, Java, and Python
-- Managed small amounts of cloud infrastructure on a combination of DigitalOcean and Heroku
-
-`Nov 2017 - Present, as needed`
-**Unitron/Sonova - Software Developer Co-op**
-
-- Wrote internal tooling for product intelligence reporting
-- Helped strategize and implement the team's translation management, helped transition to a full cloud workflow
-- Fixed bugs in desktop software, including some hardware debugging
-- C# .NET web Backend and desktop software
+- Wrote software in Go, PHP, C#, and Python
+- Managed small, essential cloud infrastructure on DigitalOcean, Heroku, and Google Cloud
 
 Skills
 ------
@@ -56,5 +57,3 @@ Projects
 
 - Early stages of a new programming language
 - Experimenting with merging the plain-english syntax style of Python/Ruby with the well known C-style syntax
-
-See more on my GitHub!

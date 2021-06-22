@@ -19,10 +19,10 @@ Skills
 **Programming:** C#, Go, Typescript/Javascript, C/C++  
 **Other technologies:** Unix/Linux, AWS, serverless design, SQL and NoSQL databases  
 
-Experience
+Experience 
 ---------
 `March 2021 - Present`
-**Enlighted Inc. - Software Developer (Cloud Backend)**
+**Enlighted Inc. - Software Developer**
 * Developed microservices on top of AWS Managed Services including Lambda, DynamoDB, IoT Core
 * Used Terraform to deploy service infrastructure
 * Leveraged DataDog for observability and monitoring 

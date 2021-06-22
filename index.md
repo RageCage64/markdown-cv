@@ -13,6 +13,12 @@ Education
 ---------
 **B.Sc Computer Science, Wilfrid Laurier University** (2015-2019)
 
+Skills
+------
+**Programming:** C#, Go, Typescript/Javascript, C/C++
+
+**Other technologies:** Unix/Linux, AWS (and similar cloud infrastructure), serverless design, SQL and NoSQL databases
+
 Experience
 ---------
 `March 2021 - Preset`
@@ -39,21 +45,3 @@ Experience
 - As the sole software dev, designed and implemented multiple internal tools for employee management and for project specific needs
 - Wrote software in Go, PHP, C#, and Python
 - Managed small, essential cloud infrastructure on DigitalOcean, Heroku, and Google Cloud
-
-Skills
-------
-**Programming:** C#, Go, Typescript/Javascript, C/C++
-
-**Other technologies:** Unix/Linux, AWS (and similar cloud infrastructure), serverless design, SQL and NoSQL databases
-
-Projects
---------
-**[eznet-cli](https://github.com/BraydonKains/eznet-cli)**
-
-- Command line application to perform common netstat operations
-- Search ports for a specific process, check what proces is running on a port, kill whatever process is running on a port, etc
-
-**[lucidity](https://github.com/BraydonKains/lucidity)** 
-
-- Early stages of a new programming language
-- Experimenting with merging the plain-english syntax style of Python/Ruby with the well known C-style syntax

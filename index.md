@@ -29,16 +29,16 @@ Experience
 * Wrote and maintained Jenkins pipelines for Continuous Delivery
 * Wrote documentation on service design, service code, and general guidance for teammates on new processes
 
-`Sept 2019 * March 2021`
-**D2L * Software Developer**
+`Sept 2019 - March 2021`
+**D2L - Software Developer**
 * Delivered custom features for clients on the Brightspace platform
 * Used C# .NET (Core and Framework) on the back end, LitElement web component on the front end
 * Used AWS managed services including Lambda, DynamoDB, CloudFormation, and deployment with Terraform
 * Member of Open Source Advisory group, helped the company with open source processes and direction
 * Conducted co*op and full*time interviews
 
-`Nov 2017 * Sept 2019`
-**Metroline R. G. * Software Developer**
+`Nov 2017 - Sept 2019`
+**Metroline R. G. - Software Developer**
 * Wrote software in Go, PHP, C#, and Python
 * As the sole software dev, designed and implemented multiple internal tools for employee management and for project specific needs
 * Managed small, essential cloud infrastructure on DigitalOcean, Heroku, and Google Cloud

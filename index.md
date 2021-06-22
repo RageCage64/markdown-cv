@@ -33,9 +33,8 @@ Experience
 **D2L - Software Developer**
 
 - Delivered custom features for clients on the Brightspace platform
-- C# .Net (Core and Framework) back end, with some ASP.NET inspired front end
-- Browser native Web Components built with LitElement (now known as Lit) and Polymer
-- AWS Lambdas (Node.js), DynamoDB, Terraform, CloudFormation, and more
+- C# .Net (Core and Framework) back end, LitElement web component front end
+- AWS Lambdas (Node.js), DynamoDB, Terraform, CloudFormation
 - Member of Open Source Advisory group, helping the company with open source processes and direction
 - Conducting co-op and full-time interviews
 

@@ -23,7 +23,7 @@ Experience
 ---------
 `March 2021 - Present`
 **Software Developer (Cloud Backend)**
-- Developed microservices on top of AWS Managed Services (mainly Lambda, DynamoDB, IoT Core)
+- Developed microservices on top of AWS Managed Services including Lambda, DynamoDB, IoT Core
 - Used Terraform to deploy service infrastructure
 - Leveraged DataDog for observability and monitoring 
 - Wrote and maintained Jenkins pipelines for Continuous Delivery
@@ -33,7 +33,7 @@ Experience
 **D2L - Software Developer**
 - Delivered custom features for clients on the Brightspace platform
 - Used C# .NET (Core and Framework) on the back end, LitElement web component on the front end
-- Used managed services including AWS Lambdas (Node.js), DynamoDB, Terraform, CloudFormation
+- Used AWS managed services including Lambda, DynamoDB, CloudFormation, and deployment with Terraform
 - Member of Open Source Advisory group, helped the company with open source processes and direction
 - Conducted co-op and full-time interviews
 

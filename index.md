@@ -7,17 +7,17 @@ title: Braydon Kains
 kainsbraydon@gmail.com  
 519 616 2976  
 [@BraydonKains on GitHub](https://www.github.com/BraydonKains)  
-Blog https://braydonkains.github.io
+Website: https://braydonkains.github.io
 
 Education
 ---------
-**B.Sc Computer Science, Wilfrid Laurier University** (2015-2019)
+**B.Sc Computer Science, Wilfrid Laurier University**  
+**AWS Certified Cloud Practitioner**  
 
 Skills
 ------
-**Programming:** C#, Go, Typescript/Javascript, C/C++
-
-**Other technologies:** Unix/Linux, AWS (and similar cloud infrastructure), serverless design, SQL and NoSQL databases
+**Programming:** C#, Go, Typescript/Javascript, C/C++  
+**Other technologies:** Unix/Linux, AWS, serverless design, SQL and NoSQL databases  
 
 Experience
 ---------
@@ -39,8 +39,8 @@ Experience
 - Conducting co-op and full-time interviews
 
 `Nov 2017 - Sept 2019`
-**Metroline Research Group - Software Developer, Consultant**
+**Metroline Research Group - Software Developer**
 
-- As the sole software dev, designed and implemented multiple internal tools for employee management and for project specific needs
 - Wrote software in Go, PHP, C#, and Python
+- As the sole software dev, designed and implemented multiple internal tools for employee management and for project specific needs
 - Managed small, essential cloud infrastructure on DigitalOcean, Heroku, and Google Cloud

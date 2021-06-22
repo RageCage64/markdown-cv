@@ -4,14 +4,14 @@ title: Braydon Kains
 ---
 # Braydon Kains
 
-kainsbraydon@gmail.com  
-519 616 2976  
+Email: kainsbraydon@gmail.com  
+Phone: 519-616-2976  
 [@BraydonKains on GitHub](https://www.github.com/BraydonKains)  
 Website: https://braydonkains.github.io
 
 Education
 ---------
-**B.Sc Computer Science, Wilfrid Laurier University**  
+**BSc Computer Science, Wilfrid Laurier University**  
 **AWS Certified Cloud Practitioner**  
 
 Skills
@@ -21,7 +21,7 @@ Skills
 
 Experience
 ---------
-`March 2021 - Preset`
+`March 2021 - Present`
 **Software Developer (Cloud Backend)**
 - Developed microservices on top of AWS Managed Services (mainly Lambda, DynamoDB, IoT Core)
 - Used Terraform to deploy service infrastructure
@@ -31,16 +31,14 @@ Experience
 
 `Sept 2019 - March 2021`
 **D2L - Software Developer**
-
 - Delivered custom features for clients on the Brightspace platform
-- C# .Net (Core and Framework) back end, LitElement web component front end
-- AWS Lambdas (Node.js), DynamoDB, Terraform, CloudFormation
-- Member of Open Source Advisory group, helping the company with open source processes and direction
-- Conducting co-op and full-time interviews
+- Used C# .NET (Core and Framework) on the back end, LitElement web component on the front end
+- Used managed services including AWS Lambdas (Node.js), DynamoDB, Terraform, CloudFormation
+- Member of Open Source Advisory group, helped the company with open source processes and direction
+- Conducted co-op and full-time interviews
 
 `Nov 2017 - Sept 2019`
-**Metroline Research Group - Software Developer**
-
+**Metroline R. G. - Software Developer**
 - Wrote software in Go, PHP, C#, and Python
 - As the sole software dev, designed and implemented multiple internal tools for employee management and for project specific needs
 - Managed small, essential cloud infrastructure on DigitalOcean, Heroku, and Google Cloud

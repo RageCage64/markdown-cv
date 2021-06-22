@@ -22,7 +22,7 @@ Skills
 Experience
 ---------
 `March 2021 - Present`
-**Software Developer (Cloud Backend)**
+**Enlighted Inc. - Software Developer (Cloud Backend)**
 * Developed microservices on top of AWS Managed Services including Lambda, DynamoDB, IoT Core
 * Used Terraform to deploy service infrastructure
 * Leveraged DataDog for observability and monitoring 

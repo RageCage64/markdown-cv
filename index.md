@@ -18,7 +18,7 @@ Experience
 `October 2021 - Present`
 **Google - Software Developer**
 * Open source developer working on observability technology (see [corporate GitHub](https://github.com/braydonk))
-* Working primarily on the [Ops Agent](https://github.com/GoogleCloudPlatform/ops-agent), while contributing to primary upstream projects such as the [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector-contrib) and [Fluent Bit](https://github.com/fluent/fluent-bit), along with critical dependencies like [monkey](https://github.com/monkey/monkey) and [go-yaml](https://github.com/goccy/go-yaml)
+* Working primarily on the [Ops Agent](https://github.com/GoogleCloudPlatform/ops-agent), while contributing to the [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector-contrib), [Fluent Bit](https://github.com/fluent/fluent-bit), [monkey](https://github.com/monkey/monkey), [go-yaml](https://github.com/goccy/go-yaml) and more
 * Conducted large performance benchmarking investigations to evaluate the effectiveness of different logging agents at high-throughput log processing
 * Sole creator and maintainer of [yamlfmt](https://github.com/google/yamlfmt), filling an important gap in the developer tooling market
 
@@ -44,4 +44,3 @@ Various small Go modules such as [go-utf8-codepoint-converter](https://github.co
 Education
 ---------
 **BSc Computer Science, Wilfrid Laurier University**  
-**AWS Certified Cloud Practitioner**  

@@ -23,16 +23,6 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-
-a {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-	color: blue;
-}
  
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -164,7 +154,7 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: blue;
 	/*text-decoration:none*/
 }
 

@@ -5,7 +5,7 @@ title: Braydon Kains
 # Braydon Kains
 
 Email: kainsbraydon@gmail.com  
-GitHub: https://www.github.com/RageCage64 and https://git.ragecage64.com
+GitHub: https://www.github.com/RageCage64   
 Website: https://blog.ragecage64.com
 
 Skills

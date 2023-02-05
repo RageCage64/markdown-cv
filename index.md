@@ -11,7 +11,7 @@ Website: https://blog.ragecage64.com
 
 Skills
 ------
-**Programming:** Go, C, C++, C#
+**Programming:** Go, C, C++, C#  
 **Specialties:** Text processing, o11y technologies, operating systems, performance engineering
 
 Experience 
@@ -42,8 +42,8 @@ Experience
 Projects
 ---------
 
-[yamlfmt](https://github.com/google/yamlfmt) - A command line yaml formatting tool
-[leaderboardsgg](https://github.com/leaderboardsgg/leaderboard-backend) - New open source gaming leaderboard website
+[yamlfmt](https://github.com/google/yamlfmt) - A command line yaml formatting tool  
+[leaderboardsgg](https://github.com/leaderboardsgg/leaderboard-backend) - New open source gaming leaderboard website  
 Various small Go modules such as [go-utf8-codepoint-converter](https://github.com/RageCage64/go-utf8-codepoint-converter), [multilinediff](https://github.com/RageCage64/multilinediff), and [go-assert](https://github.com/RageCage64/go-assert)
 
 Education

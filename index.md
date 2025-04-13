@@ -10,7 +10,7 @@ Corporate GitHub: https://www.github.com/braydonk
 
 Skills
 ------
-**Programming:** Go, C, C++, C#  
+**Programming:** Go, C, C#  
 **Specialties:** Observability technologies, performance engineering, operating systems
 
 Experience 
@@ -37,11 +37,10 @@ Experience
 Projects
 ---------
 
-**Creator and Maintainer of [yamlfmt](https://github.com/google/yamlfmt)**
+**Creator and Maintainer of [yamlfmt](https://github.com/google/yamlfmt) and [gdb-core-point](https://github.com/google/gdb_gcore_point)**
 
 **Public Speaking**
-* [How Much Overhead? How to Evaluate Observability Agent Performance](https://www.youtube.com/watch?v=BIaftvtFPHg&list=PLj6h78yzYM2N60fCRNLBL7ymUHg7fFbDZ&index=9)
-* [Learning to Fly: Finding Bottlenecks in your Observability Agents](https://www.youtube.com/live/jf7t1CpoKlg?si=tYRjmal4i_kLaX7s&t=176)
+Find full listing of public talks at https://blog.ragecage64.com/talks
 
 **Established member of the Fluent Bit Community**
 * Maintainer of [out_stackdriver](https://github.com/fluent/fluent-bit/tree/master/plugins/out_stackdriver)

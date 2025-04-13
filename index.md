@@ -30,7 +30,7 @@ Experience
 
 `Sept 2019 - March 2021`
 **D2L - Software Developer**
-* Worked on large education software in C# and LitElement
+* Worked on large education software, C# .NET Backend
 * Member of Open Source Advisory group to help guide the companies open source direction
 * Conducted co-op and full-time software developer interviews
 
@@ -40,7 +40,7 @@ Projects
 **Creator and Maintainer of [yamlfmt](https://github.com/google/yamlfmt) and [gdb-core-point](https://github.com/google/gdb_gcore_point)**
 
 **Public Speaking**
-Find full listing of public talks at https://blog.ragecage64.com/talks
+See full listing of public talks on my [blog website](https://blog.ragecage64.com/talks)
 
 **Established member of the Fluent Bit Community**
 * Maintainer of [out_stackdriver](https://github.com/fluent/fluent-bit/tree/master/plugins/out_stackdriver)
